@@ -2,7 +2,7 @@
 
 | Project names | Links |
 | ------ | ------ |
-| My portfolio | [ [https://mikhita.github.io/My-portfolio/][PlDb]|
+| My portfolio | [ https://mikhita.github.io/My-portfolio/][PlDb]|
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
@@ -10,7 +10,7 @@
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
- [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+ [PlDb]: <https://mikhita.github.io/My-portfolio/>
  [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
  [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
  [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
