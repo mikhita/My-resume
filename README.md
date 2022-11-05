@@ -38,4 +38,4 @@
        
     
         
-  {Tech I love:} HTML, CSS, Tailwind, JavaScript, React, Node.js,  SQL, JSON, MongoDB,  Git,  Swagger.}
+  Tech I love: HTML, CSS, Tailwind, JavaScript, React, Node.js,  SQL, JSON, MongoDB,  Git,  Swagger.}
